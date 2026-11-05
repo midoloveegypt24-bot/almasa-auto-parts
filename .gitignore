@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.log
+data/almasa.db
+static/uploads/products/
+static/uploads/receipts/
+static/uploads/design/
+static/uploads/brands/
+static/uploads/models/
+static/uploads/categories/
+*.back
+*.bak
+*.zip
+brain/
